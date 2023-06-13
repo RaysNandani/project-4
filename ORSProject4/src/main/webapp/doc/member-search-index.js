@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"in.co.rays.Bean","c":"UserBean","l":"ACTIVE"},{"p":"in.co.rays.Bean","c":"UserBean","l":"INACTIVE"},{"p":"in.co.rays.Bean","c":"UserBean","l":"UserBean()","url":"%3Cinit%3E()"}]
